@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Banana.Auth.Api/Banana.Auth.Api.csproj" />
+    <Project Path="src/Banana.Auth.Domain/Banana.Auth.Domain.csproj" />
+    <Project Path="src/Banana.Auth.Infrastructure/Banana.Auth.Infrastructure.csproj" />
+  </Folder>
+</Solution>
